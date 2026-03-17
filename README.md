@@ -1,11 +1,11 @@
 <h1 align="center">Hello, I'm Ram</h1>
-<h3 align="center">UD Rocket League Modder</h3>
+<h3 align="center">Rocket League Modder</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ramgd1&label=Profile%20views&color=0e75b6&style=flat" alt="ramgd1" />
 </p>
 
-- I’m currently working on **secret**
+- I’m currently working on **CosmoSDK**
 - I’m currently learning **Rust**
 - How to reach me: **Discord: ramgd**
 - Fun fact: **I am 13**
