@@ -8,7 +8,7 @@
 - I’m currently working on **CosmoSDK**
 - I’m currently learning **Rust**
 - How to reach me: **Discord: ramgd**
-- Fun fact: **I am 13**
+- Fun fact: **I am Arab**
 
 <h3 align="left">Donate</h3>
 
