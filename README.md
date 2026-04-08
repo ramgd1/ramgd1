@@ -5,9 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=ramgd1&label=Profile%20views&color=0e75b6&style=flat" alt="ramgd1" />
 </p>
 
-- I’m currently working on **CosmoSDK**
+- I’m currently working on **GigaLearnCPP**
 - I’m currently learning **Rust**
-- How to reach me: **Discord: ramgd**
+- How to reach me: **Discord: q7cj**
 - Fun fact: **I am Arab**
 
 <h3 align="left">Donate</h3>
