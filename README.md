@@ -10,12 +10,6 @@
 - How to reach me: **Discord: q7cj**
 - Fun fact: **I am Arab**
 
-<h3 align="left">Donate</h3>
-
-<p align="left">
-  <a href="https://paypal.me/ranngd">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
-  </a>
 </p>
 
 <h3 align="left">Connect with me</h3>
