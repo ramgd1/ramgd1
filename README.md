@@ -7,15 +7,14 @@
 
 - I’m currently working on **GigaLearnCPP**
 - I’m currently learning **Rust**
-- How to reach me: **Discord: q7cj**
-- Fun fact: **I am Arab**
+- How to reach me: **Discord: 5r0u**
 
 </p>
 
 <h3 align="left">Connect with me</h3>
 
 <p align="left">
-Discord: <strong>ramgd</strong>
+Discord: <strong>5r0u</strong>
 </p>
 
 <h3 align="left">Languages and Tools</h3>
